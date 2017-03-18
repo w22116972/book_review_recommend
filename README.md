@@ -38,6 +38,17 @@ Contains the book rating information. Ratings (`Book-Rating`) are either explici
 
 ![](./bx.png)
 
+
+## 實驗結果
+
+給使用者ID為87351的推薦5本書
+
+![](./result.png)
+
+此model最好的參數及最佳的MSE為
+
+![](./param.png)
+
 ## 實驗結論
 
 1. 實作出基於ALS的推薦系統
